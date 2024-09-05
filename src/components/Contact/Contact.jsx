@@ -3,7 +3,7 @@ import { MdPhoneInTalk } from "react-icons/md";
 
 import css from "./Contact.module.css";
 import { useDispatch } from "react-redux";
-import { deleteContact } from "../../redux/contactsSlice.js";
+import { deleteContact } from "../../redux/contactsOps.js";
 
 const Contact = ({ contact: { id, number, name } }) => {
   const dispatch = useDispatch();
