@@ -1,0 +1,13 @@
+.searchContainer {
+	margin-bottom: 40px;
+}
+.searchLabel {
+	display: block;
+	margin-bottom: 10px;
+}
+
+.searchInput {
+	border-radius: 10px;
+	width: 440px;
+	padding: 5px;
+}

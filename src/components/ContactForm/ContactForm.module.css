@@ -1,0 +1,28 @@
+.form {
+	border: 1px solid #000000;
+	border-radius: 10px;
+	width: 400px;
+	padding: 20px;
+	margin-bottom: 40px;
+}
+
+.formInputLabel {
+	display: block;
+	margin-bottom: 10px;
+}
+
+.formInputWrapper {
+	margin-bottom: 30px;
+}
+
+.formInput {
+	border-radius: 10px;
+	min-width: 300px;
+	padding: 5px;
+	width: 90%;
+}
+
+.formInputError {
+	color: red;
+}
+
